@@ -11,15 +11,12 @@ import { MdEmail } from "react-icons/md";
 
 const Footer = () => {
   const socialLinks = [
-    { icon: <FaInstagram />, url: "https://www.instagram.com/rizon__kumar/" },
     {
       icon: <FaLinkedin />,
-      url: "https://www.linkedin.com/in/rizonkumarrahi/",
+      url: "https://www.linkedin.com/in/kriti-kulshrestha-957b801ab/",
     },
-    { icon: <FaGithub />, url: "https://github.com/rizonkumar/" },
-    { icon: <FaTwitter />, url: "https://x.com/RizonKumar" },
-    { icon: <MdEmail />, url: "mailto:rizon.kumar.rahi@gmail.com" },
-    { icon: <FaBriefcase />, url: "https://rizonkumarrahi.in/" },
+    { icon: <FaGithub />, url: "https://github.com/kriitii" },
+    { icon: <MdEmail />, url: "mailto:kritikul25@gmail.com" },
   ];
 
   return (
@@ -67,8 +64,7 @@ const Footer = () => {
         </div>
         <hr className="mb-4 border-gray-300" />
         <p className="text-center text-sm text-gray-600">
-          © 2024 Made with <FaHeart className="inline text-red-500" /> by Rizon
-          Kumar Rahi.
+          © 2024 Made with <FaHeart className="inline text-red-500" /> by Kriti Kulshrestha
         </p>
       </div>
     </footer>

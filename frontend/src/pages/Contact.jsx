@@ -10,16 +10,15 @@ import {
 
 const Contact = () => {
   const handleStartConversation = () => {
-    window.location.href = "mailto:rizon.kumar.rahi@gmail.com";
+    window.location.href = "mailto:kritikul25@gmail.com";
   };
 
   const socialLinks = [
     {
       icon: <FaLinkedin />,
-      url: "https://www.linkedin.com/in/rizonkumarrahi/",
+      url: "https://www.linkedin.com/in/kriti-kulshrestha-957b801ab/",
     },
-    { icon: <FaGithub />, url: "https://github.com/rizonkumar" },
-    { icon: <FaTwitter />, url: "https://twitter.com/RizonKumar" },
+    { icon: <FaGithub />, url: "https://github.com/kriitii" },
   ];
 
   return (

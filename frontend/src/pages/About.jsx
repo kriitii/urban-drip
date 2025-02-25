@@ -36,7 +36,7 @@ const About = () => {
             <p>
               At Forever, we believe that clothing is more than just fabric—it's
               an expression of individuality and a source of confidence. Founded
-              in 2024 by Rizon Kumar Rahi, our journey began with a simple
+              in 2024 by Kriti Kulshrestha, our journey began with a simple
               vision: to create high-quality, stylish clothing that empowers
               people to look and feel their best.
             </p>
